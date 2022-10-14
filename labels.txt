@@ -1,2 +1,3 @@
-Thermometer
-PressureMeter
+0 Thermometer
+1 Gluse
+2 Pressure

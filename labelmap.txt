@@ -1,2 +1,2 @@
-Pressure
-Thermometer
+with_mask
+without_mask
